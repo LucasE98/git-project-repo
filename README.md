@@ -14,5 +14,9 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github.git
+https://github.com/richardkalehoff/my-travel-plans
+Kind regards to the Udacity support team!
+https://knowledge.udacity.com/questions/669369
+
 
