@@ -1,5 +1,4 @@
 .github/**
-bikeshare.py
 <<<<<<< HEAD
 chicago.csv
 new_york_city.csv
@@ -10,3 +9,10 @@ chicago.csv
 new_york_city.csv
 washington.csv
 >>>>>>> documentation
+||||||| 3c67c49
+bikeshare.py
+=======
+chicago.csv
+new_york_city.csv
+washington.csv
+>>>>>>> refactoring
