@@ -1,5 +1,12 @@
 .github/**
 bikeshare.py
+<<<<<<< HEAD
 chicago.csv
-washington.csv
 new_york_city.csv
+washington.csv
+||||||| 3c67c49
+=======
+chicago.csv
+new_york_city.csv
+washington.csv
+>>>>>>> documentation
